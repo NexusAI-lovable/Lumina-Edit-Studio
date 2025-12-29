@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Edit Studio",
+  "description": "A high-end, AI-powered video editing studio featuring Gemini and Veo for intelligent clip generation, stylistic transformations, and cinematic storytelling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
